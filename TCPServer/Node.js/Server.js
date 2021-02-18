@@ -7,5 +7,5 @@ var server = net.createServer(function(socket) {
 })
 
 server.listen(8000, function() {
-    console.log("Server bound on http://127.0.0.1:8000/");
+    console.log("ISL-DeviceBit Hub Server bound on:8000");
 })
